@@ -66,6 +66,8 @@ python manage.py runserver
 Visit: http://127.0.0.1:8000
 
 🙌 Acknowledgement
+
+
 This project was inspired by an open-source Django Hospital Management System originally developed by Sumit Kumar under the MIT License. We initially referred to his YouTube tutorials and repository to understand the core structure of a Django-based full-stack application.
 
 However, our version has significantly evolved through:
