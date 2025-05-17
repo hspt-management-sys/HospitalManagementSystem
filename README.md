@@ -1,6 +1,5 @@
-# Hospital Management System
+# 🏥  Hospital Management System
 This project is done using python full stack!
-# 🏥 Hospital Management System (Django)
 
 A full-featured **Hospital Management System** built using the **Django web framework**. This application allows admin, doctors, and patients to manage hospital workflows like appointments, patient records, and staff management—all through role-based access and a clean web interface.
 
