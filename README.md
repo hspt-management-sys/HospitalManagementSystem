@@ -44,7 +44,7 @@ hospital_management/
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/prani-chowdary/hospital-management-django.git
+git clone https://github.com/pranitha-chowdary/hospital-management-django.git
 cd hospital-management-django
 2. Create a Virtual Environment
 python -m venv venv
