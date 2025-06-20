@@ -5,10 +5,10 @@ A full-featured **Hospital Management System** built using the **Django web fram
 
 ## 🔧 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (with Django Templates)
+- **Frontend:** HTML, CSS
 - **Backend:** Python (Django Framework)
-- **Database:** MySQL / SQLite
-- **Tools:** VSCode, Git, Django Admin Panel
+- **Database:** db.sqlite3
+- **Tools:** VSCode, Git
 
 ---
 
@@ -26,7 +26,7 @@ A full-featured **Hospital Management System** built using the **Django web fram
 ### 👩‍💼 Patients
 - Register/Login
 - Book appointments with doctors
-- View appointment history and prescriptions
+- View appointment history 
 
 ---
 
@@ -52,7 +52,7 @@ mac:source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Install Dependencies
 pip install -r requirements.txt
 4. Configure Database (Optional)
-By default, SQLite is used.
+By default, dbSQLite is used.
 
 To use MySQL, update DATABASES in hospital_management/settings.py.
 
